@@ -1,1 +1,1 @@
-# grocery-tracker
+# grocery-splitter
